@@ -23,6 +23,6 @@ class Baby extends Model
     }
 
     public function album(){
-        return $this->hasMany ('App\album');
+        return $this->hasMany ('App\Album');
     }
 }
