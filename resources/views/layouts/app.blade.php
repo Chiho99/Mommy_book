@@ -17,12 +17,19 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="{{ asset('/assets/css/mommy.css')}}">
+    {{-- <link rel="stylesheet" href="{{ asset('/assets/css/mommy.css')}}"> --}}
     <!-- 追加 -->
-    <link rel="stylesheet" href="{{asset('/assets/css/baby.css')}}">
+    {{-- <link rel="stylesheet" href="{{asset('/assets/css/baby.css')}}">
     <link rel="stylesheet" href="assets/CSS/bootstrap.min.css">
     <link rel="stylesheet" href="{{ asset('/assets/css/style.css')}}">
-    <link href="{{ asset('/assets/css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('/assets/css/app.css') }}" rel="stylesheet"> --}}
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ asset('/assets/CSS/mommy.css')}}">
+    <!-- 追加 -->
+    <link rel="stylesheet" href="{{asset('/assets/CSS/baby.css')}}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ asset('/assets/CSS/style.css')}}">
+    <link href="{{ asset('/assets/CSS/app.css') }}" rel="stylesheet">
 
 </head>
 <body style="background-color: white">
