@@ -51,6 +51,10 @@ https://github.com/Chiho99<br>
 ### 画面遷移図
 <img src="https://user-images.githubusercontent.com/57189967/90416334-4d7b0400-e0ed-11ea-86b9-a77ede82c7f6.jpg">
 
+### ER図
+<img src="https://user-images.githubusercontent.com/57189967/98445536-91652e80-215b-11eb-8389-ed3132f5f430.png">
+
+
 ### テーブル定義書
 物理名（論理名）
 
